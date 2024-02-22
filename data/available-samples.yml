@@ -1,0 +1,143 @@
+studies:
+  - studyName: 4RTNI-2
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> CBD, PSP, o/vPSP, or healthy controls</p>
+    samples:
+      - RNA
+      - CSF
+      - Plasma
+      - Serum
+      - PBMC
+      - Genomic DNA
+    url: /access-samples/available-samples/4rtni
+
+  - studyName: 90+
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> People aged 90 years and older</p>
+    samples:
+      - Genomic DNA
+    url: /access-samples/available-samples/90plus
+
+  - studyName: ADNI
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> AD Cases, Controls, MCI</p>
+    samples:
+      - Genomic DNA
+      - Cell line DNA
+      - RNA
+      - LCLs
+      - Plasma
+    url: /access-samples/available-samples/adni
+
+  - studyName: AA Genetics
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  AD Cases, Controls</p>
+    samples:
+      - Cell line DNA
+      - LCLs
+    url: /access-samples/available-samples/aa-genetics
+
+  - studyName: ABCDS
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Adults with Down Syndrome and Healthy Controls</p>
+    samples:
+      - Genomic DNA
+      - Plasma
+      - Serum
+    url: /access-samples/available-samples/abcds
+
+  - studyName: ADRCS
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  AD and other dementia cases, Controls, MCI</p>
+    samples:
+      - RNA
+      - Plasma
+      - Serum
+      - PBMC
+      - CSF
+      - Genomic DNA
+      - Cell line DNA
+    url: /access-samples/available-samples/adrcs
+
+  - studyName: ARTFL LEFFTDS Longitudinal Frontotemporal <br/> Lobar Degeneration ALLFTD
+    description: "<p class='rvt-ts-xs rvt-text-regular'><strong>Population:</strong> ARTFL: FTLD syndrome cases and healthy family members. LEFFTDS: FTLD family study with known genetic mutations (symptomatic and asymptomatic family members)</p>"
+    samples:
+      - RNA
+      - Plasma
+      - Serum
+      - PBMC
+      - CSF
+      - Genomic DNA
+    url: /access-samples/available-samples/allftd
+
+  - studyName: ANGI
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Medicare beneficiaries age 65 and older with measurable cognitive deficits</p>
+    samples:
+      - Genomic DNA
+    url: /access-samples/available-samples/angi
+
+  - studyName: API Generation Program
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Individuals who carry one of two copies of the high-risk gene apolipoproten E e4 (APOE4) </p>
+    samples:
+      - Genomic DNA
+      - Plasma
+      - Serum
+      - CSF
+    url: /access-samples/available-samples/api
+
+  - studyName: DIAN
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Early Onset AD Families with known mutations</p>
+    samples:
+      - Cell line DNA
+      - LCLs
+    url: /access-samples/available-samples/dian
+
+  - studyName: GEMS
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Dementia prevention</p>
+    samples:
+      - Genomic DNA
+      - Plasma
+      - Serum
+    url: /access-samples/available-samples/gems
+
+  - studyName: GIFT
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> AD, FTD, Controls</p>
+    samples:
+      - Genomic DNA
+      - Cell line DNA
+      - LCLs
+    url: /access-samples/available-samples/gift
+
+  - studyName: The Gift of Life Collection
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  Individuals with neurodegenerative disease enrolled in the Gift to Life Outpatient Autopsy Planning Program</p>
+    samples:
+      - Fixed Brain Tissue
+    url: /access-samples/available-samples/gift-life
+
+  - studyName: Indianapolis-IBADAN
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  Elderly African Americans from Indianapolis, Yoruba living in Ibadan</p>
+    samples:
+      - Genomic DNA
+      - Cell line DNA
+      - LCLs
+    url: /access-samples/available-samples/indy-ibadan
+
+  - studyName: iPSC Initiative
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  ADRD and controls</p>
+    samples:
+      - iPBSC
+      - Fibroblasts
+    url: /access-samples/available-samples/ipsc
+
+  - studyName: NCRAD Family
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong>  AD and other dementia families</p>
+    samples:
+      - LCLs
+      - PBMC
+      - Fixed Brain Tissue
+      - Frozen Brain Tissue
+      - Genomic DNA
+      - Cell line DNA
+    url: /access-samples/available-samples/ncrad-family
+
+  - studyName: NIA-AD-FBS
+    description: <p class="rvt-ts-xs rvt-text-regular"><strong>Population:</strong> Late Onset AD Families, Controls</p>
+    samples:
+      - Genomic DNA
+      - Cell line DNA
+      - LCLs
+    url: /access-samples/available-samples/load

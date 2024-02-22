@@ -1,0 +1,372 @@
+{
+  "header": {
+    "logo": {
+      "desktop": {
+        "src": "/assets/logos/NCRAD.png",
+        "alt": "NCRAD -  National Centralized Repository for Alzheimer's Disease and Related Dementias"
+      },
+      "mobile": {
+        "src": "/assets/logos/NCRAD-logo-mobile.png",
+        "alt": "NCRAD -  National Centralized Repository for Alzheimer's Disease and Related Dementias"
+      }
+    },
+    "menu": {
+      "topMenu": [
+        {
+          "title": "Donate",
+          "url": "/donate"
+        },
+        {
+          "title": "Get Updates",
+          "url": "/get-updates"
+        }
+      ],
+      "mainMenu": [
+        {
+          "title": "About",
+          "url": "/about",
+          "children": [
+            {
+              "title": "Services",
+              "url": "/about/services"
+            },
+            {
+              "title": "Team",
+              "url": "/about/team"
+            },
+            {
+              "title": "Committees",
+              "children": [
+                {
+                  "title": "Executive Committee",
+                  "url": "/about/executive-committee"
+                },
+                {
+                  "title": "Review Committee",
+                  "url": "/about/review-committee"
+                }
+              ]
+            },
+            {
+              "title": "Newsletters",
+              "url": "/about/newsletters",
+              "children": [
+                {
+                  "title": "Current Issue",
+                  "url": "/about/newsletters/current-issue"
+                },
+                {
+                  "title": "Join Our Mailing List",
+                  "url": "/get-updates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Bank Samples",
+          "url": "/bank-samples",
+          "children": [
+            {
+              "title": "Request a Quote",
+              "url": "https://redcap.uits.iu.edu/surveys/?s=TTHAPKM8K7EJTACL",
+              "external": true
+            },
+            {
+              "title": "Sample Types We Bank",
+              "url": "/bank-samples/samples-we-bank"
+            },
+            {
+              "title": "IPSCs & Fibroblasts",
+              "url": "/bank-samples/ipsc-fibroblasts"
+            },
+            {
+              "title": "APOE Genotyping",
+              "url": "/bank-samples/apoe-genotyping"
+            },
+            {
+              "title": "MTA for Sending Samples",
+              "url": "/bank-samples/mta-in"
+            },
+            {
+              "title": "Sample Management",
+              "url": "/bank-samples/sample-management",
+              "children": [
+                {
+                  "title": "Recommended Consent Language",
+                  "url": "/bank-samples/sample-management/recommended-consent-language"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Access Samples",
+          "url": "/access-samples",
+          "children": [
+            {
+              "title": "Available Samples",
+              "url": "/access-samples/available-samples",
+              "children": [
+                {
+                  "title": "4RTNI",
+                  "url": "/access-samples/available-samples/4rtni"
+                },
+                {
+                  "title": "90+",
+                  "url": "/access-samples/available-samples/90plus"
+                },
+                {
+                  "title": "ADNI",
+                  "url": "/access-samples/available-samples/adni"
+                },
+                {
+                  "title": "AA Genetics",
+                  "url": "/access-samples/available-samples/aa-genetics"
+                },
+                {
+                  "title": "ABCDS",
+                  "url": "/access-samples/available-samples/abcds"
+                },
+                {
+                  "title": "ADRCS",
+                  "url": "/access-samples/available-samples/adrcs"
+                },
+                {
+                  "title": "ALLFTD",
+                  "url": "/access-samples/available-samples/allftd"
+                },
+                {
+                  "title": "ANGI",
+                  "url": "/access-samples/available-samples/angi"
+                },
+                {
+                  "title": "API Generation Program",
+                  "url": "/access-samples/available-samples/api"
+                },
+                {
+                  "title": "DIAN",
+                  "url": "/access-samples/available-samples/dian"
+                },
+                {
+                  "title": "GEMS",
+                  "url": "/access-samples/available-samples/gems"
+                },
+                {
+                  "title": "GIFT",
+                  "url": "/access-samples/available-samples/gift"
+                },
+                {
+                  "title": "The Gift of Life Collection",
+                  "url": "/access-samples/available-samples/gift-life"
+                },
+                {
+                  "title": "Indianapolis-IBADAN",
+                  "url": "/access-samples/available-samples/indy-ibadan"
+                },
+                {
+                  "title": "iPSC Initiative",
+                  "url": "/access-samples/available-samples/ipsc"
+                },
+                {
+                  "title": "NCRAD Family",
+                  "url": "/access-samples/available-samples/ncrad-family"
+                },
+                {
+                  "title": "NIA-AD-FBS",
+                  "url": "/access-samples/available-samples/load"
+                }
+              ]
+            },
+            {
+              "title": "Catalogs",
+              "url": "/access-samples/catalogs"
+            },
+            {
+              "title": "Request Samples",
+              "children": [
+                {
+                  "title": "MTA For Receiving Samples",
+                  "url": "/access-samples/request-samples/mta-out"
+                }
+              ]
+            },
+            {
+              "title": "Publications",
+              "url": "/access-samples/publications"
+            },
+            {
+              "title": "Grant Aknowledgement",
+              "url": "/access-samples/acknowledgement"
+            }
+          ]
+        },
+        {
+          "title": "Biomarker Analysis",
+          "url": "/biomarker-analysis",
+          "children": [
+            {
+              "title": "Request a Quote",
+              "url": "https://redcap.uits.iu.edu/surveys/?s=YXR9K7973YAMMMEF",
+              "external": true
+            }
+          ]
+        },
+        {
+          "title": "Coordinate Studies",
+          "url": "/coordinate-studies"
+        },
+        {
+          "title": "Genetics & Families",
+          "url": "/genetics-of-ad",
+          "children": [
+            {
+              "title": "Genetics of Dementia",
+              "url": "/genetics-of-ad",
+              "children": [
+                {
+                  "title": "Genetic Testing",
+                  "url": "/genetics-of-ad/genetic-testing"
+                }
+              ]
+            },
+            {
+              "title": "Participate in Research",
+              "url": "/participate-in-research"
+            },
+            {
+              "title": "NCRAD Family Study",
+              "url": "/ncrad-family-study",
+              "children": [
+                {
+                  "title": "Update Contact Information",
+                  "url": "/ncrad-family-study/update-contact"
+                },
+                {
+                  "title": "Autopsy Planning Form",
+                  "url": "/ncrad-family-study/autopsy-planning"
+                }
+              ]
+            },
+            {
+              "title": "IU Late Onset (LOAD) Study",
+              "url": "/iu-load-study",
+              "children": [
+                {
+                  "title": "Update Contact Information",
+                  "url": "/iu-load-study/update-contact"
+                },
+                {
+                  "title": "Autopsy Planning Form",
+                  "url": "/iu-load-study/autopsy-planning"
+                }
+              ]
+            },
+            {
+              "title": "Important of Autopsy",
+              "url": "/importance-of-autopsy",
+              "children": [
+                {
+                  "title": "Autopsy Reports",
+                  "url": "/importance-of-autopsy/autopsy-reports"
+                },
+                {
+                  "title": "Autopsy & Religion",
+                  "url": "/importance-of-autopsy/autopsy-and-religion"
+                },
+                {
+                  "title": "Brain Donation",
+                  "url": "/importance-of-autopsy/brain-donation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Contact",
+          "url": "/contact",
+          "children": [
+            {
+              "title": "Hours & Location",
+              "url": "/contact/hours",
+              "children": [
+                {
+                  "title": "Shipping Resources",
+                  "url": "/contact/hours/shipping-resources"
+                },
+                {
+                  "title": "Holiday Closures",
+                  "url": "/contact/hours/holiday-closures"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "footer": {
+    "quickLinks": [
+      {
+        "title": "Sample types we bank",
+        "url": "/bank-samples/samples-we-bank"
+      },
+      {
+        "title": "Available samples to bank",
+        "url": "/access-samples/available-samples"
+      },
+      {
+        "title": "IPSCs & Fibroblasts",
+        "url": "/bank-samples/ipsc-fibroblasts"
+      },
+      {
+        "title": "Biomarker Assay Lab",
+        "url": "/biomarker-analysis"
+      }
+    ],
+
+    "siteMap": [
+      {
+        "title": "About",
+        "url": "/about"
+      },
+      {
+        "title": "Services We Offer",
+        "url": "/about/services"
+      },
+      {
+        "title": "Access Samples",
+        "url": "/access-samples"
+      },
+      {
+        "title": "Bank Samples",
+        "url": "/bank-samples"
+      },
+      {
+        "title": "Coordinate Studies",
+        "url": "/coordinate-studies"
+      }
+    ],
+    "contact": {
+      "email": "alzstudy@iu.edu",
+      "phone": "800-526-2839",
+      "location": "NCRAD <br/> Indiana University School of Medicine <br/> 351 W. 10th St TK-217 <br/> Indianapolis, IN 46202"
+    },
+    "hours": "<p><strong>Monday through Friday: </strong>8 a.m to 5 p.m </p>\n <p>Frozen samples must be shipped only on <br/> <strong>Monday - Wednesday.</strong></p> <p><strong>What to do for Friday blood draws</strong></p> <p><strong>Holiday hours and closures</strong></p>",
+    "footerText": "NCRAD is grateful for the invaluable support it receives from the National Institute on Aging (NIA) under a cooperative grant (U24 AG021886)",
+    "footerBaseLinks": [
+      {
+        "title": "Disclaimer",
+        "url": "/disclaimer"
+      },
+      {
+        "title": "Privacy Notice",
+        "url": "/privacy-notice"
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact"
+      }
+    ]
+  }
+}

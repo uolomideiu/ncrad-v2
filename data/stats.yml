@@ -1,0 +1,33 @@
+stats:
+  - icon:
+      src: "assets/icons/SVG/NCRAD__books_blue.svg"
+      alt: "Books Icon"
+    numbers: "410K"
+    description: "Samples distributed by NCRAD"
+    link:
+      url: "/access-samples/request-samples/mta-out"
+      title: "Request Samples"
+  - icon:
+      src: "assets/icons/SVG/NCRAD__head_blue.svg"
+      alt: "Head icon"
+    numbers: "126K"
+    description: "Participants with samples at NCRAD"
+    link:
+      url: "/participate-in-research"
+      title: "Participate in a study"
+  - icon:
+      src: "assets/icons/SVG/NCRAD__books_blue.svg"
+      alt: "Books Icon"
+    numbers: "850+"
+    description: "Participants using NCRAD samples and data"
+    link:
+      url: "/access-samples/publications"
+      title: "View publications"
+  - icon:
+      src: "assets/icons/SVG/NCRAD__find person_blue.svg"
+      alt: "Find person Icon"
+    numbers: "74"
+    description: "Studies with samples banked at NCRAD"
+    link:
+      url: "/bank-samples"
+      title: "Bank Samples"

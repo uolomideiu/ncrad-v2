@@ -1,0 +1,77 @@
+studies:
+  - title: 4RTNI-2
+    url: /coordinate-studies/4rtni
+  - title: 90+ Study
+    url: /coordinate-studies/90plus
+  - title: ABC-DS
+    url: /coordinate-studies/abc-ds
+  - title: ACAD
+    url: /coordinate-studies/acad
+  - title: ACE
+    url: /coordinate-studies/ace
+  - title: ADCFB
+    url: /coordinate-studies/adcfb
+  - title: ADDS/NiAD
+    url: /coordinate-studies/adds-niad
+  - title: ADNI-3
+    url: /coordinate-studies/adni
+  - title: ADNI-Depression
+    url: /coordinate-studies/adni-depression
+  - title: ADNI-DOD
+    url: /coordinate-studies/adni-dod
+  - title: AGMP
+    url: /coordinate-studies/agmp
+  - title: ALLFTD
+    url: /coordinate-studies/allftd
+  - title: APOE
+    url: /coordinate-studies/apoe
+  - title: BBBSR
+    url: /coordinate-studies/bbbsr
+  - title: BEYONDD
+    url: /coordinate-studies/beyondd
+  - title: BI-FB
+    url: /coordinate-studies/bifb
+  - title: BioSTAC
+    url: /coordinate-studies/biostac
+  - title: CADASIL
+    url: /coordinate-studies/cadasil
+  - title: DIAN
+    url: /coordinate-studies/dian
+  - title: DMDC
+    url: /coordinate-studies/dmdc
+  - title: Duke/UNC ADRC
+    url: /coordinate-studies/duke-unc-adrc
+  - title: HALS
+    url: /coordinate-studies/hals
+  - title: HEAD
+    url: /coordinate-studies/head
+  - title: I-CONECT
+    url: /coordinate-studies/iconnect
+  - title: LEADS
+    url: /coordinate-studies/leads
+  - title: LIFE-DSR
+    url: /coordinate-studies/lifedsr
+  - title: MCS
+    url: /coordinate-studies/mcs
+  - title: NIA-AD FBS
+    url: /coordinate-studies/nia-ad-fbs
+  - title: NAPS
+    url: /coordinate-studies/naps
+  - title: NAPS2
+    url: /coordinate-studies/naps2
+  - title: NIFD
+    url: /coordinate-studies/nifd
+  - title: PACT
+    url: /coordinate-studies/pact
+  - title: PSDC
+    url: /coordinate-studies/psdc
+  - title: T2
+    url: /coordinate-studies/t2
+  - title: UW Retinal
+    url: /coordinate-studies/uwretinal
+  - title: Veri-T
+    url: /coordinate-studies/veri-t
+  - title: VIVA-MIND
+    url: /coordinate-studies/viva-mind
+  - title: WRAP
+    url: /coordinate-studies/wrap

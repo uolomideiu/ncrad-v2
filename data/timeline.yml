@@ -1,0 +1,16 @@
+timeline:
+  - dates: 1990-2002
+    title: The Early Years
+    description: "NCRAD's roots trace back to its establishment as the Cell Bank Core, operating under the umbrella of the Indiana Alzheimer's Disease Center. During this period, our focus was on the recruitment of multiplex families for groundbreaking linkage studies. These foundational years set the stage for what NCRAD would become."
+  - dates: 2002-2008
+    title: Evolution and Expansion
+    description: "In 2002, NCRAD took a significant step forward as it transitioned into a U24 (cooperative agreement). It marked the start of a new era with NCRAD supporting its first trans-ADC study and banking DNA from LOAD families recruited by ADCs. Additionally, NCRAD began its collaboration with ADNI, further solidifying its role as a vital resource in Alzheimer's research. "
+  - dates: 2009-2014
+    title: Expanding Horizons
+    description: "As NCRAD continued to grow, so did its scope. The renewal of NCRAD during this period brought about funding collaboration with the ADGC. Sample types expanded, and NCRAD became the trusted repository for samples from 23 NIA-funded studies. These years saw NCRAD firmly establishing itself as a cornerstone of Alzheimer's research."
+  - dates: 2015-2020
+    title: A Period of Unprecedented Collaboration
+    description: "NCRAD's journey reached new heights with its renewal and expanded scope, marked by close collaboration with ADSP and the receipt of iPSCs and fibroblasts. NCRAD became the hub for samples from over 40 NIA-funded studies, exemplifying our commitment to advancing research on Alzheimer’s disease."
+  - dates: 2021-Present
+    title: Leading the Way into the Future
+    description: "In 2021, NCRAD's renewed commitment to progress led to the establishment of the Biomarker Lab, equipped with cutting-edge technology and validated plasma assays. This initiative not only enhances our capabilities but also provides invaluable support to ADRCs with plasma samples. We continue to expand our sample types, catalogs, and banked resources, supporting more than 65 NIA-funded studies and ensuring that NCRAD remains at the forefront of Alzheimer's disease research. "
